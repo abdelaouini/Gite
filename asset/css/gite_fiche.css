@@ -1,0 +1,101 @@
+.imgfontainebleau {
+  background-image: url("../../img/carre/fontainebleau.jpg");
+  background-size: cover;
+
+}
+.imgparis{
+  background-image: url("../../img/carre/toureiffel.jpg");
+  background-size: cover;
+
+}
+.imgalpes{
+  background-image: url("../../img/rectangle_grd/les_deux_alpes.jpg");
+  background-size: cover;
+}
+.imgmarseille{
+  background-image: url("../../img/carre/calanque.jpg");
+  background-size: cover;
+}
+.imglyon{
+  background-image: url("../../img/carre/lyon.jpg");
+  background-size: cover;
+}
+.imgprestige{
+  background-image: url("../../img/carre/prestige.jpg");
+  background-size: cover;
+}
+.imghotel{
+  background-image: url("../../img/carre/hotel.jpg");
+  background-size: cover;
+}
+.imgchalet{
+  background-image: url("../../img/carre/chalet.jpg");
+  background-size: cover;
+}
+.imgmaison{
+
+  background-image: url("../../img/carre/maison.jpg");
+  background-size: cover;
+}
+.h1trouver {
+  /*ca sert a gerer la taille du texte*/
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.h2dugite {
+  font-size: 1rem;
+}
+
+.container_image {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  /* height: *; */
+  margin-top: 50px;
+}
+
+.chambre {
+  width: 300px;
+  height: 300px;
+}
+.suiteluxe{
+  height: 250px;
+  width: 350px;
+}
+.chambreluxe{
+  margin-top: 5px;
+  height: 245px;
+  width: 350px;
+}
+.photosreservation{
+  display: flex;
+}
+.parisvuecathedrale{
+  height: 500px;
+  width: 100%;
+  margin-left: 5px;
+}
+.detail-paragrhe{
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Bodoni MT Poster Compressed";
+}
+.information-sur-le-logement{
+  margin-top: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+.reserver{
+  width: 100%;
+  height: 60px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.ibis{
+  text-align:start;
+}
+.prix-nuit{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

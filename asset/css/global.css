@@ -1,0 +1,109 @@
+/* form */
+.form {
+  margin-top: 15px;
+  /*    margin-top: 100px;*/
+  /*   margin-left: 150px;*/
+}
+
+.bgsearch {
+  position: fixed;
+  z-index: 1;
+  top: 50px;
+  width: 100%;
+  height: 150px;
+}
+/* pour contrer le form-control et aligner les champs destination et les dates */
+.searchForm {
+  display: flex;
+}
+
+/*  changer le nom test card page accueil */
+.test2 {
+  border: 1px solid green;
+  width: 300px;
+  height: 300px;
+}
+.test3 {
+  border: 1px solid green;
+  width: 500px;
+  height: 300px;
+}
+.test4 {
+  border: 1px solid green;
+  width: 200px;
+  height: 200px;
+}
+/* ref bg color */
+.bg-abdel {
+  background-color: #003580;
+}
+.bg-abdel {
+  background-color: #003580;
+}
+/* footer */
+.footer_abdel {
+  width: 100%;
+  height: 115px;
+  background-color: #003580;
+}
+/* test */
+.test {
+  border: 1px solid red;
+  width: 100%;
+  height: 1000px;
+}
+
+/*RESERVATION*/
+
+.reservation {
+  text-align: center;
+  margin-top: 40px;
+
+}
+.hotel {
+  font-size: 20px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.soustitre {
+  margin-left: 50px;
+  font-size: 12px;
+}
+.h1admin{
+  text-align: center;
+  margin-top: 20px;
+}
+.suiteluxeadmin{
+  height: 200px;
+  width: 200px;
+}
+.principale{
+  display: flex;
+}
+.acceder{
+  margin-top: 20px;
+  width: 665px;
+  height: 50px;
+}
+.connexion{
+  margin-top: 280px;
+}
+.titre-index{
+  text-align: center;
+  margin-top: 40px;
+}
+.container_image a{
+  text-decoration: none;
+}
+
+.taille-form{
+  height: 170px;
+}
+.contact{
+  text-align: center;
+  color: white;
+}
+.fontainebleau-h1{
+  text-align: center;
+  margin-top: 15px;
+}

@@ -1,0 +1,36 @@
+/* formulaire de creation de gite */
+
+.flexFormAdmin {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.testForm {
+  border: 1px red solid;
+}
+.formAdmin {
+  margin: 50px;
+  height: 800px;
+}
+.formAdmin .btn {
+  margin-top: 50px;
+  width: 100%;
+}
+.downloadFile {
+  margin-top: 50px;
+}
+/* index_admin */
+
+.btnNavAdmin {
+  display: flex;
+  justify-content: center;
+  background: var(--navColorBlue);
+  z-index: 2;
+  position: fixed;
+  width: 100%;
+  height: 50px;
+}
+/* pas de result recherche */
+.noResSearch {
+  margin-top: 50px;
+}
